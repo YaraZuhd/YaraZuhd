@@ -145,7 +145,7 @@ Full-stack platform with product catalog, cart, auth, and order management.
 ## Activity Feed
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/YaraZuhd/YaraZuhd/pull/1) in [YaraZuhd/YaraZuhd](https://github.com/YaraZuhd/YaraZuhd)
+1. 🎉 Merged PR [#1](https://github.com/YaraZuhd/react-training/pull/1) in [YaraZuhd/react-training](https://github.com/YaraZuhd/react-training)
 <!--END_SECTION:activity-->
 
 ---
