@@ -154,7 +154,7 @@ Full-stack platform with product catalog, cart, auth, and order management.
 
 **Open to remote opportunities · Palestine**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-zuhd-2652a0209/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yara-zuhd)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarazuhd0@gmail.com)
 
 </div>
