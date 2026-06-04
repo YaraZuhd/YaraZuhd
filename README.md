@@ -145,7 +145,7 @@ Full-stack platform with product catalog, cart, auth, and order management.
 ## Activity Feed
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/YaraZuhd/terraform-github-practice/pull/1) in [YaraZuhd/terraform-github-practice](https://github.com/YaraZuhd/terraform-github-practice)
+1. 🎉 Merged PR [#2](https://github.com/YaraZuhd/terraform-github-practice/pull/2) in [YaraZuhd/terraform-github-practice](https://github.com/YaraZuhd/terraform-github-practice)
 <!--END_SECTION:activity-->
 
 ---
