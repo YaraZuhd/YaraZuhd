@@ -18,7 +18,7 @@
 
 I'm at **EXALT Technologies**, where I've delivered Angular architecture and enterprise UI work across multiple client engagements — including building `@peaxy/kit`, a 20+ component design system, and a CDK Virtual Scroll table rendering 97,000 rows at 60fps using direct DOM manipulation to bypass Angular change detection.
 
-- 🔭 Currently expanding into **DevOps/Go**, contributing to `nutanix/terraform-provider-nutanix`
+- 🔭 Currently expanding into **DevOps**: Go, Terraform, infrastructure tooling
 - 🌱 Always leveling up: **Angular Signals**, **NgRx**, **Web Performance**
 - 🌍 Based in **Palestine** · Open to **remote-first product roles**
 - 💬 Ask me about **Angular architecture**, **RxJS patterns**, **design systems**
@@ -98,17 +98,6 @@ I'm at **EXALT Technologies**, where I've delivered Angular architecture and ent
 
 ---
 
-### Network Gateway Module — `terraform-provider-nutanix`
-> Open-source contribution · Go · Terraform
-
-Building a Network Gateway module (resource, datasource, and test coverage) for Nutanix's official Terraform provider — part of an active expansion into infrastructure/DevOps tooling.
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
 ### Angular Portfolio App
 > **[yara-portfolio](https://github.com/YaraZuhd/yara-portfolio)** · Angular 19 · TypeScript · SCSS
 
@@ -117,6 +106,19 @@ A production-grade portfolio SPA built with Angular 19 Signals, lazy-loaded rout
 ![Angular](https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+<!-- TODO: once the Go/Terraform project is finished, add a new section here, e.g.:
+
+### terraform-provider-repostandards
+> Custom Terraform Provider · Go · GitHub API
+
+A custom Terraform provider for managing GitHub repository configuration as code — branch protection, labels, and repo settings — built with the Terraform Plugin Framework and Go.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
+
+-->
 
 ---
 
