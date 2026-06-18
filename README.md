@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yara+%F0%9F%91%8B;Frontend+Developer;Angular+%7C+TypeScript+%7C+RxJS;Building+Powerful+Enterprise+UIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yara+%F0%9F%91%8B;Senior+Full-Stack+Engineer;Angular+%7C+TypeScript+%7C+RxJS;Building+Powerful+Enterprise+UIs" alt="Typing SVG" />
 
 <br/>
 
@@ -14,13 +14,13 @@
 
 ## About Me
 
-**Frontend Developer** specializing in **Angular (14, 18, 19)**, **TypeScript**, and **RxJS**.
+**Senior Full-Stack Engineer** specializing in **Angular (14–19)**, **TypeScript**, and **RxJS**.
 
-I build enterprise-grade component libraries, high-performance data tables, and scalable design systems. Currently at **Peaxy**, owning the custom Angular component library that powers the entire product suite.
+I'm at **EXALT Technologies**, where I've delivered Angular architecture and enterprise UI work across multiple client engagements — including building `@peaxy/kit`, a 20+ component design system, and a CDK Virtual Scroll table rendering 97,000 rows at 60fps using direct DOM manipulation to bypass Angular change detection.
 
-- 🔭 Building a **production-grade Angular portfolio app** — check it out below
+- 🔭 Currently expanding into **DevOps/Go**, contributing to `nutanix/terraform-provider-nutanix`
 - 🌱 Always leveling up: **Angular Signals**, **NgRx**, **Web Performance**
-- 🌍 Based in **Palestine** · Open to **remote opportunities**
+- 🌍 Based in **Palestine** · Open to **remote-first product roles**
 - 💬 Ask me about **Angular architecture**, **RxJS patterns**, **design systems**
 
 ---
@@ -47,7 +47,9 @@ I build enterprise-grade component libraries, high-performance data tables, and 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -81,6 +83,32 @@ I build enterprise-grade component libraries, high-performance data tables, and 
 
 ## Featured Projects
 
+### Enterprise Angular Design System — `@peaxy/kit`
+> 20+ component Angular component library, built and shipped for a client deployment at EXALT
+
+- Virtual-scroll data table rendering **97,000 rows at 60fps**, using direct DOM manipulation to bypass Angular change detection
+- SPC control charts with Western Electric run rules, using `forkJoin` and Highcharts
+- Floating scrollbars and dropdown teleport system with custom scroll/anchoring strategies
+- Dynamic layout modes with reactive, signal-driven state patterns
+- Accessible, themeable components following WCAG 2.1
+
+![Angular](https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Angular CDK](https://img.shields.io/badge/Angular%20CDK-009688?style=flat-square&logo=angular&logoColor=white)
+
+---
+
+### Network Gateway Module — `terraform-provider-nutanix`
+> Open-source contribution · Go · Terraform
+
+Building a Network Gateway module (resource, datasource, and test coverage) for Nutanix's official Terraform provider — part of an active expansion into infrastructure/DevOps tooling.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
 ### Angular Portfolio App
 > **[yara-portfolio](https://github.com/YaraZuhd/yara-portfolio)** · Angular 19 · TypeScript · SCSS
 
@@ -92,21 +120,6 @@ A production-grade portfolio SPA built with Angular 19 Signals, lazy-loaded rout
 
 ---
 
-### Custom Component Library
-> **Enterprise Angular 19 design system** at Peaxy
-
-Built a full Angular component library from scratch powering the entire product suite:
-- Virtual-scroll data tables handling **100k+ rows** with sub-16ms render time
-- Floating scrollbars with custom scroll strategies
-- Dynamic layout modes with reactive state patterns
-- Accessible, themeable components following WCAG 2.1
-
-![Angular](https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Angular CDK](https://img.shields.io/badge/Angular%20CDK-009688?style=flat-square&logo=angular&logoColor=white)
-
----
-
 ### Yanal Pro — Mobile Invoicing App
 > Offline-first mobile app for a trading company
 
@@ -114,16 +127,16 @@ Built a full Angular component library from scratch powering the entire product 
 - Arabic PDF invoice export
 - Works fully offline with local data sync
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Mobile](https://img.shields.io/badge/Offline--First-4CAF50?style=flat-square)
-![Barcode](https://img.shields.io/badge/Barcode%20Scanning-FF5722?style=flat-square)
-![Arabic PDF](https://img.shields.io/badge/Arabic%20PDF%20Export-2196F3?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-### Google Project — USB Bus Monitor
-> **Electron.js** desktop app
+### USB Bus Monitor
+> **Electron.js** desktop app, built for a client engagement at EXALT
 
-Real-time USB bus monitoring with live data visualization charts for Google's hardware team.
+Real-time USB bus monitoring with live data visualization charts.
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Highcharts](https://img.shields.io/badge/Highcharts-1C84C6?style=flat-square)
@@ -152,9 +165,9 @@ Full-stack platform with product catalog, cart, auth, and order management.
 
 <div align="center">
 
-**Open to remote opportunities · Palestine**
+**Open to remote-first product roles · Palestine**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yara-zuhd)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-zuhd-2652a0209/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarazuhd0@gmail.com)
 
 </div>
