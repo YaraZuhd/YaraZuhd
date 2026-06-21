@@ -107,18 +107,22 @@ A production-grade portfolio SPA built with Angular 19 Signals, lazy-loaded rout
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-<!-- TODO: once the Go/Terraform project is finished, add a new section here, e.g.:
+---
 
-### terraform-provider-repostandards
-> Custom Terraform Provider · Go · GitHub API
+### tf-graph — Terraform Infrastructure Visualizer
+> **[tf-graph](https://github.com/YaraZuhd/tf-graph)** · Go · Terraform · Cloudflare · Graphviz
 
-A custom Terraform provider for managing GitHub repository configuration as code — branch protection, labels, and repo settings — built with the Terraform Plugin Framework and Go.
+A Terraform module paired with a custom Go CLI tool that parses `terraform show -json` output and renders infrastructure as a visual dependency graph — turning state files into a diagram instead of a wall of JSON.
+
+- Cloudflare Workers + KV namespace provisioned via Terraform (free tier, no domain required)
+- Go CLI parses Terraform's own state output into a graph data structure (nodes = resources, edges = dependencies)
+- Renders the graph to Graphviz DOT format and produces a PNG diagram
+- Clean separation of concerns: dedicated parser, graph builder, and renderer packages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
-
--->
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Graphviz](https://img.shields.io/badge/Graphviz-2596BE?style=flat-square)
 
 ---
 
